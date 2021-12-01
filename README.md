@@ -1,0 +1,2 @@
+# covid
+verificacion qr
